@@ -1,16 +1,41 @@
-# resi
+# RTrack
 
-A new Flutter project.
+**RTrack** adalah aplikasi yang dirancang untuk pelacakan atau monitoring, dengan kemungkinan penggunaan Flutter untuk antarmuka pengguna dan Express.js untuk backend.
 
-## Getting Started
+## Fitur
+- Pelacakan secara real-time
+- Dukungan platform lintas (Android, iOS, Web)
+- Backend dengan Express.js
 
-This project is a starting point for a Flutter application.
+## Cara Memulai
+1. Klon repositori:
+   ```bash
+   git clone https://github.com/agusydk3/RTrack.git
+   ```
+2. Instal dependensi untuk setiap platform:
+   - Untuk Flutter:
+     ```bash
+     flutter pub get
+     ```
+   - Untuk Backend (Express JS):
+     ```bash
+     npm install
+     ```
 
-A few resources to get you started if this is your first Flutter project:
+3. Jalankan aplikasi:
+   - Flutter:
+     ```bash
+     flutter run
+     ```
+   - Express JS:
+     ```bash
+     npm start
+     ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshot
+![Screenshot 1](ss/1.png)
+![Screenshot 2](ss/2.png)
+![Screenshot 3](ss/3.png)
+![Screenshot 4](ss/4.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
